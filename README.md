@@ -1,16 +1,48 @@
-## Hi there 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=260&section=header&text=Joffre%20Loor&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SWE%20%7C%20Data%20Engineer%20%7C%20Hackathon%20Winner&descSize=18&descAlignY=60)](https://github.com/joffre-loor)
 
-<!--
-**joffre-loor/joffre-loor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:loorj0415@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/joffreloor114">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="JoffreLoorResume.pdf">
+    <img src="https://img.shields.io/badge/Resume-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joffre-loor&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/last-commit/joffre-loor/joffre-loor?style=for-the-badge&label=LAST%20COMMIT&color=24243e" alt="Last commit" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Hackathon+Winner;Full-Stack+SWE;Data+Engineer;Machine+Learning;Scalable+Backends;Low-Latency+Systems)
+
+</div>
+
+### <p align="center">"Live in the future, then build what's missing." — Paul Graham</p>
+
+<p align="center">
+  I'm a Computer Science and Data Science double major at Rutgers University-New Brunswick. My primary passion is mobile app development, but I also have strong experience across full-stack engineering, web development, backend systems, databases, and machine learning. I co-founded Sibling Software, where I build and publish my apps, and I'm preparing for a data engineering internship. I'm driven to create products that are genuinely useful and enjoyable, with the goal of improving people's daily lives through the software I build.
+</p>
+
+### <p align="center">My Technical Skills</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs,mysql,postgres,react,nodejs,fastapi" alt="Technical skills row 1" />
+</div>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,r,git,github,docker,aws,linux,postman,vscode,cloudflare,vite" alt="Technical skills row 2" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joffre-loor&theme=github-compact&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joffre-loor&theme=github&area=true&hide_border=true">
+    <img alt="Joffre Loor's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=joffre-loor&theme=github&area=true&hide_border=true" />
+  </picture>
+</div>
