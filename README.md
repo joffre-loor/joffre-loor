@@ -18,9 +18,7 @@
 </p>
 
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&deleteSpeed=40&color=58A6FF&center=true&vCenter=true&width=800&lines=Hackathon+Winner;Full-Stack+Software+Engineer;Data+Engineer;Embedded+Machine+Learning+Engineer;Scalable+Mobile+Apps;Web+Developer)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&deleteSpeed=40&color=58A6FF&center=true&vCenter=true&width=800&lines=Hackathon+Winner;Full-Stack+Software+Engineer;Data+Engineer;Embedded+Machine+Learning+Engineer;Scalable+Mobile+Apps;Web+Developer" alt="Typing summary" />
 </p>
 
 ### <p align="center">"Live in the future, then build what's missing." — Paul Graham</p>
@@ -32,7 +30,7 @@
 <br/>
 
 <p align="center">
-  I'm a Computer Science and Data Science double major at Rutgers University-New Brunswick. My primary passion is mobile app development, but I also have strong experience across full-stack engineering, web development, backend systems, databases, and machine learning. I co-founded Sibling Software, where I build and publish my apps, and I'm preparing for a data engineering internship. I'm driven to create products that are genuinely useful and enjoyable, with the goal of improving people's daily lives through the software I build.
+  Hi, I'm Joffre (JJ), a Computer Science and Data Science double major at Rutgers University-New Brunswick. My primary passion is mobile app development, but I also have strong experience across full-stack engineering, web development, backend systems, databases, and machine learning. I co-founded Sibling Software, where I build and publish my apps, and I'm preparing for a data engineering internship. I'm driven to create products that are genuinely useful and enjoyable, with the goal of improving people's daily lives through the software I build.
 </p>
 
 <br/>
