@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joffre-loor&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/last-commit/joffre-loor/joffre-loor?style=for-the-badge&label=LAST%20COMMIT&color=24243e" alt="Last commit" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=YEARLY%20CONTRIBUTIONS&query=%24.total.lastYear&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fjoffre-loor%3Fy%3Dlast&color=24243e" alt="Yearly contributions" />
 </p>
 
 <p align="center">
